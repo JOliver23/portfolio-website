@@ -3076,7 +3076,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(53, 73, 59, 0.95);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-		background: rgba(46, 49, 65, 0.8);
+		background: rgba(46, 65, 56, 0.8);
 		cursor: default;
 		height: 100%;
 		left: 0;
@@ -3625,7 +3625,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e4131;
+		background-color: #2e3141;
 		margin: 6.5em 0;
 		position: relative;
 	}
@@ -3767,7 +3767,7 @@ input, select, textarea {
 			}
 
 		.wrapper.spotlight {
-			background-color: #4c9656;
+			background-color: #4c5c96;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
